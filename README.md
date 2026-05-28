@@ -1,12 +1,9 @@
-# neuro-papers-daily
+# Neuroscience Papers
 
-Daily collection of the latest neuroscience papers from arXiv.
+Recently published neuroscience papers with links.
 
-## Structure
+## Papers
 
-- `papers/` — Daily Markdown files (one per day)
-- `scripts/` — Automation scripts
-
-## Automation
-
-This repo updates automatically every day via cron job.
+- [Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images](https://arxiv.org/abs/2605.28693)
+- [VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](https://arxiv.org/abs/2605.28818)
+- [Exploratory Experience Shapes the Geometry of Predictive Representations](https://arxiv.org/abs/2605.27929)
