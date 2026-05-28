@@ -1,6 +1,16 @@
 # Neuroscience Papers
 
-Recently published neuroscience papers with links.
+Recently published neuroscience papers organized by topic and species.
+
+## Structure
+
+- `anatomy/` — Papers on brain anatomy and structure
+- `computation/` — Computational neuroscience, models, algorithms
+- `invertebrates/`
+  - `octopus/` — Cephalopod neuroscience
+  - `snail/` — Molluscan nervous systems (e.g., Aplysia)
+  - `other/` — Other invertebrates (insects, worms, etc.)
+- `papers/` — General / unclassified recent papers
 
 ## Papers
 
