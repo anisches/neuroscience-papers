@@ -2,24 +2,22 @@
 
 A growing collection of recent neuroscience papers, organized by topic.
 
-## Topics
+## Computation
 
-### Computation
-- Representational geometry & alignment
-- Predictive processing & learning
-- Backpropagation vs biological learning
-- Dimensionality of neural populations
-- AI-brain alignment
+- [Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images](https://arxiv.org/abs/2605.28693)
+- [VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](https://arxiv.org/abs/2605.28818)
+- [Exploratory Experience Shapes the Geometry of Predictive Representations](https://arxiv.org/abs/2605.27929)
+- [Revealing the core dimensions underlying representations in brains, behavior and AI](https://arxiv.org/abs/2605.26921)
+- [Random neural networks match observed dimensionality of neural population recordings](https://arxiv.org/abs/2605.26551)
 
-### Anatomy & Systems
-- Object and context representations in cortex
-- Hierarchical organization of brain responses
+## Anatomy & Systems
 
-### Invertebrates
-- Cephalopods (Octopus)
-- Molluscs (Snail / Aplysia)
-- Other invertebrates
+- [Contextual Role Modulates Object Representational Geometry in the Human Brain](https://arxiv.org/abs/2605.23111)
+
+## Invertebrates
+
+*(Papers will appear here as they are found)*
 
 ---
 
-*This index grows as new papers are added daily.*
+*This collection grows daily.*
