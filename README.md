@@ -11,6 +11,7 @@ A growing collection of recent neuroscience papers, organized by topic.
 - [Revealing the core dimensions underlying representations in brains, behavior and AI](https://arxiv.org/abs/2605.26921)
 - [Random neural networks match observed dimensionality of neural population recordings](https://arxiv.org/abs/2605.26551)
 - [Stationary covariance spectra of discrete-time non-normal random recurrent dynamics](https://arxiv.org/abs/2606.31944)
+- [Cohort-amortized personalization: navigating the privacy-utility frontier for virtual brain twins](https://arxiv.org/abs/2606.30329)
 
 ## Anatomy & Systems
 
