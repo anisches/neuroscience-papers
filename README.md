@@ -15,6 +15,10 @@ A growing collection of recent neuroscience papers, organized by topic.
 
 - [Contextual Role Modulates Object Representational Geometry in the Human Brain](https://arxiv.org/abs/2605.23111)
 
+## Clinical
+
+- [State-Dependent Transcriptomic Collapse of the Brain's Lactate and Ketone Thermodynamic Sensors in Schizophrenia](https://doi.org/10.64898/2026.06.26.734782)
+
 ## Invertebrates
 
 *(Papers will appear here as they are found)*
