@@ -13,6 +13,7 @@ A growing collection of recent neuroscience papers, organized by topic.
 - [Random neural networks match observed dimensionality of neural population recordings](https://arxiv.org/abs/2605.26551)
 - [Stationary covariance spectra of discrete-time non-normal random recurrent dynamics](https://arxiv.org/abs/2606.31944)
 - [Cohort-amortized personalization: navigating the privacy-utility frontier for virtual brain twins](https://arxiv.org/abs/2606.30329)
+- [Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence](https://arxiv.org/abs/2606.29655)
 - [Mean-field theory of rich oscillatory dynamics in low-rank recurrent networks with activity-dependent adaptation](https://arxiv.org/abs/2606.30366)
 - [IsoSci: A Benchmark of Isomorphic Cross-Domain Science Problems for Evaluating Reasoning versus Knowledge Retrieval in LLMs](https://arxiv.org/abs/2607.01431)
 
