@@ -14,6 +14,7 @@ A growing collection of recent neuroscience papers, organized by topic.
 - [Stationary covariance spectra of discrete-time non-normal random recurrent dynamics](https://arxiv.org/abs/2606.31944)
 - [Cohort-amortized personalization: navigating the privacy-utility frontier for virtual brain twins](https://arxiv.org/abs/2606.30329)
 - [Mean-field theory of rich oscillatory dynamics in low-rank recurrent networks with activity-dependent adaptation](https://arxiv.org/abs/2606.30366)
+- [IsoSci: A Benchmark of Isomorphic Cross-Domain Science Problems for Evaluating Reasoning versus Knowledge Retrieval in LLMs](https://arxiv.org/abs/2607.01431)
 
 ## Anatomy & Systems
 
