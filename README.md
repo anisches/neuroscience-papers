@@ -4,6 +4,7 @@ A growing collection of recent neuroscience papers, organized by topic.
 
 ## Computation
 
+- [Sparse component analysis: A method that uncovers separable computations within neural population activity](https://doi.org/10.1016/j.neuron.2026.05.022)
 - [NeuroCogMap Reveals Cognitive Organization of Large Language Models](https://arxiv.org/abs/2607.00397)
 - [Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images](https://arxiv.org/abs/2605.28693)
 - [VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](https://arxiv.org/abs/2605.28818)
@@ -12,6 +13,7 @@ A growing collection of recent neuroscience papers, organized by topic.
 - [Random neural networks match observed dimensionality of neural population recordings](https://arxiv.org/abs/2605.26551)
 - [Stationary covariance spectra of discrete-time non-normal random recurrent dynamics](https://arxiv.org/abs/2606.31944)
 - [Cohort-amortized personalization: navigating the privacy-utility frontier for virtual brain twins](https://arxiv.org/abs/2606.30329)
+- [Mean-field theory of rich oscillatory dynamics in low-rank recurrent networks with activity-dependent adaptation](https://arxiv.org/abs/2606.30366)
 
 ## Anatomy & Systems
 
