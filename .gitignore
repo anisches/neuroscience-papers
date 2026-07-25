@@ -1,4 +1,7 @@
-__pycache__/
-*.pyc
-.env
-.venv/
+# Transient fetch artifacts
+/paper.json
+/paper.pdf
+/paper_*.json
+/paper_*.pdf
+/journal.*.pdf
+*temporal_topology_neuronal_morphogenesis_2026.*
