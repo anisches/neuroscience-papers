@@ -15,7 +15,8 @@ A growing collection of recent neuroscience papers, organized by topic.
 - [Cohort-amortized personalization: navigating the privacy-utility frontier for virtual brain twins](https://arxiv.org/abs/2606.30329)
 - [Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence](https://arxiv.org/abs/2606.29655)
 - [Mean-field theory of rich oscillatory dynamics in low-rank recurrent networks with activity-dependent adaptation](https://arxiv.org/abs/2606.30366)
-- [IsoSci: A Benchmark of Isomorphic Cross-Domain Science Problems for Evaluating Reasoning versus Knowledge Retrieval in LLMs](https://arxiv.org/abs/2607.01431)
+- [IsoSci: A Benchmark of Isomorphic Cross-Domain Science Problems for Evaluating Reasoning versus Retrieval in LLMs](https://arxiv.org/abs/2607.01431)
+- [Whisker stimulation reinforces a resting-state network in the barrel cortex: Nested oscillations and avalanches](https://doi.org/10.1371/journal.pcbi.1014521)
 - [Spectral theory for population density dynamics of spiking neurons with refractoriness](https://arxiv.org/abs/2607.20699) — A rigorous operator-theoretic framework for neuronal population dynamics with a finite refractory time, formulating the problem as a non-self-adjoint boundary eigenvalue problem for the Fokker-Planck operator, and deriving an exact transfer function. Reveals that refractoriness can facilitate onset of limit cycles in interacting populations.
 
 ## Anatomy & Systems
