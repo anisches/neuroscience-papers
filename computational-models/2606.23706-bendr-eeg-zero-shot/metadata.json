@@ -1,0 +1,31 @@
+{
+  "title": "Zero-Shot Neural Priors for Generalizable Cross-Subject and Cross-Task EEG Decoding",
+  "authors": [
+    {"given": "Baimam Boukar Jean", "family": "Jacques"},
+    {"given": "Brandone", "family": "Fonya"},
+    {"given": "Nchofon Tagha", "family": "Ghogomu"},
+    {"given": "Pauline", "family": "Nyaboe"},
+    {"given": "Kipngeno", "family": "Koech"}
+  ],
+  "arxiv_id": "2606.23706",
+  "doi": "10.48550/arXiv.2606.23706",
+  "source": "arXiv",
+  "primary_subject": "eess.SP",
+  "subjects": ["Signal Processing (eess.SP)", "Human-Computer Interaction (cs.HC)", "Machine Learning (cs.LG)"],
+  "published_date": "2026-07-26",
+  "submitted_date": "2026-06-12",
+  "revised_date": "2026-07-23",
+  "version": 2,
+  "type": "new results",
+  "license": "arxiv_nonexclusive",
+  "category": "neuroscience",
+  "relevance_tags": ["computation"],
+  "abstract": "The development of generalizable electroencephalography (EEG) decoding models is essential for robust brain-computer interfaces (BCI) and objective neural biomarkers in mental health. Conventional approaches have been hindered by poor cross-subject and cross-task generalization, owing to high inter-subject variability and non-stationary neural signals. We address this challenge with a zero-shot cross-subject decoding framework on the large-scale Healthy Brain Network dataset, benchmarking a convolutional neural network baseline, a hybrid LSTM, and a Transformer-based foundation model. To adapt the Transformer for regression while averting catastrophic forgetting, we propose a novel progressive unfreezing strategy. The baseline yielded an nRMSE of 0.9991, whereas our fine-tuned Transformer achieved 0.9799 on unseen subjects. This work advances scalable, calibration-free EEG decoding for computational psychiatry and behavioral prediction.",
+  "pdf_url": "https://arxiv.org/pdf/2606.23706",
+  "abstract_url": "https://arxiv.org/abs/2606.23706",
+  "source_xml": "https://export.arxiv.org/api/query?id_list=2606.23706",
+  "pdf_size_bytes": 504066,
+  "fetched_at": "2026-07-26T08:14:00Z",
+  "fetched_by": "curator",
+  "task_id": "t_b7ec32c4"
+}

@@ -1,0 +1,88 @@
+{
+  "pmid": "42500531",
+  "pmcid": "PMC13395610",
+  "title": "Connectome-based mapping of gray matter abnormalities in hepatic encephalopathy.",
+  "doi": "10.3389/fmed.2026.1886303",
+  "source": "PubMed",
+  "database": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42500531/",
+  "published": "2026-07-10",
+  "epublished": "2026-07-10",
+  "journal": "Frontiers in Medicine",
+  "journal_iso": "Front Med (Lausanne)",
+  "journal_issn": "2296-858X",
+  "journal_nlm_id": "101648047",
+  "volume": "13",
+  "issue": "",
+  "pages": "1886303",
+  "publisher": "Frontiers Media SA",
+  "country": "Switzerland",
+  "publication_status": "epublish",
+  "pubtype": ["Journal Article"],
+  "pubstatus": "PubMed-not-MEDLINE",
+  "pub_model": "Electronic-eCollection",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY).",
+  "copyright": "Copyright © 2026 Chen, Xia, Chen, Hong, Mao, Wang and Zhou.",
+  "authors": [
+    {
+      "name": "Chen L",
+      "full_name": "Li Chen",
+      "equal_contrib": true,
+      "affiliations": ["Department of Hepatobiliary Disease, Fuzong Clinical Medical College of Fujian Medical University, Fuzhou, Fujian, China."]
+    },
+    {
+      "name": "Xia L",
+      "full_name": "Lei Xia",
+      "equal_contrib": true,
+      "affiliations": ["Department of Hepatobiliary Disease, The Third Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."]
+    },
+    {
+      "name": "Chen Y",
+      "full_name": "Yaling Chen",
+      "equal_contrib": true,
+      "affiliations": ["Department of Radiology, Fuzong Clinical Medical College of Fujian Medical University, Fuzhou, Fujian, China."]
+    },
+    {
+      "name": "Hong C",
+      "full_name": "Chengkun Hong",
+      "equal_contrib": false,
+      "affiliations": ["Department of Diagnostic Radiology, Fuzong Teaching Hospital of Fujian University of Traditional Chinese Medicine (900th Hospital), Fuzhou, Fujian, China."]
+    },
+    {
+      "name": "Mao M",
+      "full_name": "Minghui Mao",
+      "equal_contrib": false,
+      "affiliations": ["Department of Diagnostic Radiology, Fuzong Teaching Hospital of Fujian University of Traditional Chinese Medicine (900th Hospital), Fuzhou, Fujian, China."]
+    },
+    {
+      "name": "Wang X",
+      "full_name": "Xiaoyang Wang",
+      "equal_contrib": false,
+      "affiliations": ["Department of Radiology, Fuzong Clinical Medical College of Fujian Medical University, Fuzhou, Fujian, China."]
+    },
+    {
+      "name": "Zhou L",
+      "full_name": "Lili Zhou",
+      "equal_contrib": false,
+      "affiliations": ["Department of Hepatobiliary Disease, 900th Hospital of PLA Joint Logistic Support Force, Fuzhou, Fujian, China."]
+    }
+  ],
+  "language": "eng",
+  "keywords": [
+    "brain connectome",
+    "disease epicenter",
+    "gray matter abnormalities",
+    "hepatic encephalopathy",
+    "network modeling",
+    "structural connectivity"
+  ],
+  "relevance_tags": ["anatomy"],
+  "abstract": "Hepatic encephalopathy (HE) is linked to widespread gray matter abnormalities, but it remains unclear whether these changes follow the organizing principles of large-scale brain networks. This study examined the spatial distribution of gray matter abnormalities in HE and their relationships with brain network hubs, neighborhood connectivity, and disease epicenters. In this cross-sectional study, 45 patients with HE and 45 healthy controls underwent high-resolution T1-weighted MRI. Cortical thickness was extracted from 308 cortical regions using the Desikan-Killiany atlas, and volumes were measured from 14 subcortical structures. Group differences were analyzed controlling for age, sex, and total intracranial volume. Connectome-based analyses were based on normative functional and structural connectomes from the Human Connectome Project and assessed hub-related vulnerability, network-neighborhood effects, disease epicenters, and individual-level network patterns. Patients with HE showed widespread gray matter abnormalities in the prefrontal, motor, temporal, and limbic cortices, as well as basal ganglia and thalamus, without significant alignment with normative functional or structural hubs. Structural neighborhood abnormalities were positively correlated with cortical changes (r = 0.58, Pspin = 0.004), whereas functional neighborhoods were not. Functional-connectome epicenters were concentrated in the left inferior frontal gyrus, orbitofrontal cortex, and striatum, while structural-connectome epicenters centered on the bilateral superior frontal gyri and left inferior frontal gyrus. Individual analyses revealed heterogeneous epicenter patterns, with prefrontal-related regions repeatedly implicated. These findings suggest that gray matter abnormalities in HE are non-randomly organized, constrained by structural connectivity, and associated with prefrontal-centered disease epicenter networks, providing connectome-based insights into gray matter abnormalities in HE.",
+  "mesh_terms": [],
+  "citation_count": null,
+  "references": [],
+  "is_open_access": true,
+  "pdf_available": true,
+  "pdf_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1886303/pdf",
+  "free_access_notes": "Open-access article published in Frontiers in Medicine (Frontiers Media SA) under CC BY license. PDF freely available from publisher."
+}

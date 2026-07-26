@@ -1,0 +1,19 @@
+{
+  "id": "2605.20801",
+  "title": "Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation",
+  "authors": [
+    "Mohamed Khair Altrabulsi",
+    "Nouhaila Innan",
+    "Alberto Marchisio",
+    "Muhammad Kashif",
+    "Muhammad Shafique"
+  ],
+  "date": "2026-05-20",
+  "updated": "2026-07-23",
+  "venue": "IEEE QCE 2026",
+  "doi": "10.48550/arXiv.2605.20801",
+  "categories": ["cs.RO", "quant-ph"],
+  "tags": ["computation", "quantum-machine-learning", "reinforcement-learning", "spiking-neural-networks", "robot-navigation"],
+  "primary_contribution": "QSNN hybrid architecture combining spike-based temporal processing with variational quantum feature transformation for obstacle-aware navigation",
+  "key_result": "QSNN achieves 99% success rate in 40x40 grid with best overall trade-off across all four metrics; successfully executed on IBM quantum hardware"
+}
