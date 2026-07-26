@@ -36,7 +36,8 @@ A growing collection of recent neuroscience papers, organized by topic.
 - [Mean-field theory of rich oscillatory dynamics in low-rank recurrent networks with activity-dependent adaptation](https://arxiv.org/abs/2606.30366)
 - [IsoSci: A Benchmark of Isomorphic Cross-Domain Science Problems for Evaluating Reasoning versus Retrieval in LLMs](https://arxiv.org/abs/2607.01431)
 - [Whisker stimulation reinforces a resting-state network in the barrel cortex: Nested oscillations and avalanches](https://doi.org/10.1371/journal.pcbi.1014521)
-- [Spectral theory for population density dynamics of spiking neurons with refractoriness](https://arxiv.org/abs/2607.20699) — A rigorous operator-theoretic framework for neuronal population dynamics with a finite refractory time, formulating the problem as a non-self-adjoint boundary eigenvalue problem for the Fokker-Planck operator, and deriving an exact transfer function. Reveals that refractoriness can facilitate onset of limit cycles in interacting populations.
+- [Spectral theory for population density dynamics of spiking neurons with refractoriness](https://arxiv.org/abs/2607.20699)
+- [MSBraM: A Multi-scale Self-supervised Brain Foundation Model for Hierarchical EEG Dynamics Learning](https://arxiv.org/abs/2607.21402)
 
 ## Anatomy & Systems
 
