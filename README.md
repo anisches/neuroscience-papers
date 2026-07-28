@@ -2,6 +2,24 @@
 
 A growing collection of recent neuroscience papers, organized by topic.
 
+## Recent Additions — July 28, 2026
+
+- **From fruit flies to football: Violent Drosophila provide novel ideas about CTE** (2026) — Goldstein's PNAS Comment on Maxson et al.'s finding that injury-induced tau phosphorylation drives aggression in *Drosophila* via dopaminergic circuit activation without neurodegeneration, reframing tau as a dynamic regulator of circuit function and providing a pre-degenerative model for CTE. [details](paper_42507948.json) | [zettel](note://neuroscience/2026-07-28-goldstein-drosophila-cte-comment-lit)
+
+- **The Drosophila CEBPG homolog Irbp18 partners with crc (ATF4) to mediate the integrated stress response in degenerative disease models** (2026) — Identifies Irbp18 (CEBPG homolog) as the essential in vivo dimerization partner for crc (ATF4) during the integrated stress response in Drosophila, with functional consequences in retinitis pigmentosa (ninaEG69D) and Parkinson's disease (parkin mutant) models via CUT&RUN and transcriptional analysis. [details](invertebrates/mitra-irbp18-crc-isr-drosophila/summary.md)
+
+- **The Anatomical Connections of Nucleus Accumbens with Brainstem and Cerebellum in the Rat and Human Subjects** (2026) — Cross-species mapping of NAc-brainstem/cerebellum connections using fluoro-gold tracing in rats and DTI tractography in humans, revealing conserved (raphe, VTA, parabrachial) and species-specific (dentate nucleus, locus coeruleus) pathways. [details](anatomy/cavdar-nac-brainstem-cerebellum-2026/summary.md)
+- **Functional Deorphanization and Subtype-Selective Pharmacology of Three Tyramine Receptors in the Disease Vector, Aedes aegypti** (2026) — First functional characterization of three tyramine receptors (AaTAR1–AaTAR3) in Aedes aegypti mosquitoes, revealing TA-specific activation, high ligand specificity, and subtype-selective antagonist profiles, highlighting TARs as targets for next-generation insecticides. [details](2026/afifi-paluzzi-tyramine-receptors-aedes-2026/summary.md)
+- **Transregional Neural Prostheses: Applications and Computational Tools** (2026) — Comprehensive review surveying transregional neural prostheses that re-establish endogenous causal communication within neural circuits, organized around a unified computational framework covering predictive models and stimulation optimization. [details](2026/wu-transregional-neural-prostheses-2026/summary.md)
+- **Gp130 Orchestrates a Bidirectional Neuron-Microglia Circuit for neuroprotection** (2026) — Identifies gp130 as a master regulator of microglia-neuron communication; the LIF-IL6 positive feedback loop drives neuroprotection across TBI, stroke, and spinal cord injury models; therapeutic engagement via gp130-activating designer cytokines. [details](2026/willis-gp130-neuron-microglia-2026/summary.md)
+- **Cross-Frequency Coupling as a Neural Substrate for Prediction Error Evaluation: A Laminar Neural Mass Modeling Approach** (2026) — Proposes that cross-frequency coupling (CFC) in laminar cortical circuits implements a hierarchical comparator mechanism for predictive coding via signal-envelope coupling (SEC) and envelope-envelope coupling (EEC); models disruptions in Alzheimer's disease and psychedelic states. [details](2026/ruffini-cfc-lanmm-prediction-error-2026/summary.md)
+- **Active dendrites enable robust spiking computations despite timing jitter** (2026) — Burger, Rule & O'Leary propose a Leaky-Integrate-and-Hold (LIH) model showing that slow dendritic plateau potentials paradoxically enable fast, reliable spiking computation by acting as a resettable jitter buffer, maintaining 100% classification accuracy even when input jitter exceeds the membrane time constant by 10×. [details](computation/2026-07-28-burger-active-dendrites-robust-spiking.md)
+- **Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory** (2026) — Intracranial EEG reveals hippocampal ripples progressively ramp up during VSTM maintenance, predict successful performance, and couple with ripples in the lateral temporal lobe for memory reactivation, extending the role of ripples from long-term consolidation to short-term mnemonic processes. [details](human-brain/liu-hippocampal-ripples-vstm-2026/summary.md)
+- **Individualized surface parcellation enhances characterization of resting-state brain dynamics and their alterations in schizophrenia** (2026) — Across two first-episode schizophrenia cohorts (n=414), individualized surface parcellation consistently outperforms volumetric approaches in detecting QPP dynamics and patient-control differences, but symptom associations remain difficult to replicate across cohorts. [details](computation/2026-07-28-watters-individualized-parcellation-schizophrenia.md)
+- **Differential local synchronization in human nucleus accumbens vs. caudate and putamen** (2026) — Resting-state fMRI analysis of 1,055 HCP participants reveals NAcc has higher but steeper distance-dependent local synchronization than caudate/putamen, likely arising from differential neuromodulatory environments rather than cytoarchitecture. [details](human-brain/christova-georgopoulos-accumbens-synchronization-2026/summary.md)
+- **Selective GPR17 antagonism enhances structural and functional recovery in animal models of demyelination** (2026) — The novel oral GPR17 antagonist RWT020016 promotes remyelination in acute and chronic cuprizone models (VEP latency recovery, Y-maze performance, MBP increase, g-ratio improvement), with human tissue validation showing GPR17 upregulation in demyelinated MS lesions. [details](anatomy/de-herdt-gpr17-antagonism-2026/summary.md)
+- **Protective effects of Gamma-decanolactone against PTZ-induced behavioral alterations in Caenorhabditis elegans: behavioral and In Silico evidence** (2026) — Gamma-decanolactone dose-dependently reduces PTZ-induced paralysis in C. elegans via GABAergic signaling, with molecular docking confirming favorable binding to unc-25/unc-47/unc-49 targets; protection is absent in GABA-null mutants. [details](2026/mendes-gd-ptz-celegans-2026/summary.md)
+
 ## Recent Additions — July 25, 2026
 
 - **Backpropagation-Free Test-Time Adaptation for Lightweight EEG-Based Brain-Computer Interfaces** (2026) — Proposes BFT, a backpropagation-free TTA approach for EEG decoding using reliability-weighted transformation aggregation; matches backpropagation-based TTA while enabling INT8 edge deployment. [details](computational-models/2601.07556-bft-eeg-tta/summary.md)
@@ -61,6 +79,10 @@ A growing collection of recent neuroscience papers, organized by topic.
 - [Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](https://arxiv.org/abs/2601.21778)
 - [Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation](https://arxiv.org/abs/2605.20801)
 - [In silico dysbiosis-associated neuroprotective metabolite insufficiency in Alzheimer's disease](https://doi.org/10.1515/med-2026-1484)
+- [Cross-Frequency Coupling as a Neural Substrate for Prediction Error Evaluation: A Laminar Neural Mass Modeling Approach](https://doi.org/10.1162/NECO.a.1537)
+- [Active dendrites enable robust spiking computations despite timing jitter](https://doi.org/10.7554/eLife.89629)
+- [Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory](https://doi.org/10.64898/2026.04.07.716930)
+- [Individualized surface parcellation enhances characterization of resting-state brain dynamics and their alterations in schizophrenia](https://doi.org/10.64898/2026.07.24.740570)
 
 ## Anatomy & Systems
 
@@ -68,6 +90,9 @@ A growing collection of recent neuroscience papers, organized by topic.
 - [Connectome-based mapping of gray matter abnormalities in hepatic encephalopathy](https://doi.org/10.3389/fmed.2026.1886303)
 - [Live-imaging of endogenous neurofascins reveals glial adhesion shapes developing nodes of Ranvier](https://doi.org/10.64898/2026.07.24.740328)
 - [Generative replay across hippocampal-neocortical circuits](https://doi.org/10.64898/2026.07.24.740539)
+- [The Anatomical Connections of Nucleus Accumbens with Brainstem and Cerebellum in the Rat and Human Subjects](https://doi.org/10.1007/s12311-026-02060-9)
+- [Selective GPR17 antagonism enhances structural and functional recovery in animal models of demyelination](https://doi.org/10.1371/journal.pone.0354525)
+- [Differential local synchronization in human nucleus accumbens vs. caudate and putamen](https://doi.org/10.1152/jn.00178.2026)
 
 ## Clinical
 
@@ -76,7 +101,8 @@ A growing collection of recent neuroscience papers, organized by topic.
 
 ## Invertebrates
 
-*(Papers will appear here as they are found)*
+- **Functional Deorphanization and Subtype-Selective Pharmacology of Three Tyramine Receptors in the Disease Vector, Aedes aegypti** (2026) — First functional characterization of three tyramine receptors (AaTAR1–AaTAR3) in Aedes aegypti mosquitoes, revealing TA-specific activation, high ligand specificity, and subtype-selective antagonist profiles. [details](2026/afifi-paluzzi-tyramine-receptors-aedes-2026/summary.md)
+- **Protective effects of Gamma-decanolactone against PTZ-induced behavioral alterations in Caenorhabditis elegans: behavioral and In Silico evidence** (2026) — Gamma-decanolactone reduces PTZ-induced paralysis in C. elegans via GABAergic signaling; molecular docking confirms binding to unc-25/unc-47/unc-49 targets, with protection absent in GABA-null mutants. [details](2026/mendes-gd-ptz-celegans-2026/summary.md)
 
 ---
 
