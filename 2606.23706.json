@@ -1,0 +1,23 @@
+{
+  "title": "Zero-Shot Neural Priors for Generalizable Cross-Subject and Cross-Task EEG Decoding",
+  "authors": [
+    "Baimam Boukar Jean Jacques",
+    "Brandone Fonya",
+    "Nchofon Tagha Ghogomu",
+    "Pauline Nyaboe",
+    "Kipngeno Koech"
+  ],
+  "source": "arXiv: 2606.23706",
+  "doi": "10.48550/arXiv.2606.23706",
+  "arxiv_id": "2606.23706",
+  "arxiv_version": "v2",
+  "submitted_date": "2026-06-12",
+  "revised_date": "2026-07-23",
+  "published_date": "2026-07-26",
+  "subjects": ["Signal Processing (eess.SP)", "Human-Computer Interaction (cs.HC)", "Machine Learning (cs.LG)"],
+  "abstract": "The development of generalizable electroencephalography (EEG) decoding models is essential for robust brain-computer interfaces (BCI) and objective neural biomarkers in mental health. Conventional approaches have been hindered by poor cross-subject and cross-task generalization, owing to high inter-subject variability and non-stationary neural signals. We address this challenge with a zero-shot cross-subject decoding framework on the large-scale Healthy Brain Network dataset, benchmarking a convolutional neural network baseline, a hybrid LSTM, and a Transformer-based foundation model. To adapt the Transformer for regression while averting catastrophic forgetting, we propose a novel progressive unfreezing strategy. The baseline yielded an nRMSE of 0.9991, whereas our fine-tuned Transformer achieved 0.9799 on unseen subjects. This work advances scalable, calibration-free EEG decoding for computational psychiatry and behavioral prediction.",
+  "relevance_tags": ["computation"],
+  "pdf_url": "https://arxiv.org/pdf/2606.23706",
+  "pdf_size_bytes": 504066,
+  "comments": "EEG Decoding research"
+}

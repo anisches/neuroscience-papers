@@ -1,0 +1,70 @@
+{
+  "pmid": "42507821",
+  "pmcid": null,
+  "title": "Differential local synchronization in human nucleus accumbens vs. caudate and putamen.",
+  "doi": "10.1152/jn.00178.2026",
+  "source": "PubMed",
+  "database": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42507821/",
+  "published": "2026-07-27",
+  "epublished": "2026-07-27",
+  "journal": "Journal of Neurophysiology",
+  "journal_iso": "J Neurophysiol",
+  "journal_issn": "0022-3077",
+  "journal_eissn": "1522-1598",
+  "journal_nlm_id": "0375404",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "publisher": "American Physiological Society",
+  "country": "United States",
+  "publication_status": "aheadofprint",
+  "pub_model": "Print-Electronic",
+  "pubtype": ["Journal Article"],
+  "pubstatus": "PubMed - as supplied by publisher",
+  "license": null,
+  "copyright": null,
+  "authors": [
+    {
+      "name": "Christova P",
+      "full_name": "Peka Christova",
+      "orcid": "0000-0002-9741-4749",
+      "affiliations": [
+        "The Neuroimaging Research Group, Brain Sciences Center, Department of Veterans Affairs Health Care System, Minneapolis, MN, 55417, USA.",
+        "Department of Neuroscience, University of Minnesota Medical School, Minneapolis, MN 55455, USA."
+      ]
+    },
+    {
+      "name": "Georgopoulos AP",
+      "full_name": "Apostolos P Georgopoulos",
+      "orcid": "0000-0003-4412-725X",
+      "affiliations": [
+        "The Neuroimaging Research Group, Brain Sciences Center, Department of Veterans Affairs Health Care System, Minneapolis, MN, 55417, USA.",
+        "Department of Neuroscience, University of Minnesota Medical School, Minneapolis, MN 55455, USA.",
+        "Institute for Health Informatics, University of Minnesota Medical School, Minneapolis, MN 55455, USA."
+      ]
+    }
+  ],
+  "language": "eng",
+  "keywords": [
+    "caudate nucleus",
+    "crosscorrelation",
+    "functional magnetic resonance imaging",
+    "nucleus accumbens",
+    "putamen",
+    "synchronization"
+  ],
+  "relevance_tags": ["human-brain"],
+  "grants": [
+    "University of Minnesota Foundation (UMF)",
+    "U.S. Department of Veterans Affairs (VA)"
+  ],
+  "abstract": "We investigated local synchronization in three nuclei of the human striatum (nucleus accumbens, caudate nucleus, putamen; N = 1055 participants) by computing, for each nucleus, the zero-lag crosscorrelations (CC0) between prewhitened resting-state BOLD fMRI time series recorded from voxels 2-12 mm apart (2, 4, 6, 8, 10, 12 mm bins). CC0 was strongest at the shortest distance (2 mm) and decreased with distance in a power (log-log) fit, reaching a plateau at 8 mm. CC0 was highest in accumbens where it decreased more sharply (by ~1.4x) with distance than in the caudate and putamen. These results document a distinct difference in synchronization in accumbens as compared to caudate and putamen, where this synchronization was very similar. Given that the cellular layout is fairly comparable in all 3 nuclei, our findings could be reasonably attributed to a different neuromodulatory environment between accumbens and caudate/putamen, a hypothesis supported by the findings of differential neuromodulatory distributions in humans using positron emission tomography (PET). The role of local synchronization and its different strength among striatal nuclei, on their overall function and relations to behavior remain to be elucidated.",
+  "mesh_terms": [],
+  "citation_count": null,
+  "references": [],
+  "is_open_access": false,
+  "pdf_available": false,
+  "pdf_url": null,
+  "free_access_notes": "Paper is behind a paywall at the Journal of Neurophysiology (American Physiological Society). No PMC version or preprint found. The journal site (journals.physiology.org) returns 403/Cloudflare blocking."
+}

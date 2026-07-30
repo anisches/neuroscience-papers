@@ -1,0 +1,66 @@
+{
+  "pmid": 42501186,
+  "pmcid": null,
+  "doi": "10.1007/s12311-026-02060-9",
+  "doi_note": "Task specified DOI 10.1152/jn.00160.2026 — that DOI does not exist. The paper was published in Cerebellum (Springer), not J Neurophysiology. The correct DOI is 10.1007/s12311-026-02060-9.",
+  "title": "The Anatomical Connections of Nucleus Accumbens with Brainstem and Cerebellum in the Rat and Human Subjects",
+  "authors": [
+    {"name": "Safiye Çavdar", "affiliations": ["Department of Anatomy, School of Medicine, Koç University, Sarıyer, 34450, Istanbul, Türkiye"], "email": "scavdar@ku.edu.tr"},
+    {"name": "Damlasu Altınöz", "affiliations": ["Department of Anatomy, School of Medicine, Koç University, Sarıyer, 34450, Istanbul, Türkiye"]},
+    {"name": "Mazhar Özkan", "affiliations": ["Department of Anatomy, School of Medicine, Tekirdağ Namık Kemal University, Tekirdağ, Türkiye"]},
+    {"name": "Elif Erkan", "affiliations": ["Department of Anatomy, School of Medicine, Koç University, Sarıyer, 34450, Istanbul, Türkiye"]},
+    {"name": "Aytaç Güzel", "affiliations": ["Department of Physiology, School of Medicine, Koç University, Istanbul, Türkiye"]},
+    {"name": "Yasin Celal Güneş", "affiliations": ["Kırıkkale Yüksek İhtisas Hospital, Kırıkkale, Türkiye"]},
+    {"name": "Oktay Algın", "affiliations": [
+      "Department of Radiology, Medical Faculty, Ankara University, Ankara, Türkiye",
+      "Interventional MR Clinical R&D Institute, Ankara University, Ankara, Altındağ, Türkiye",
+      "National MR Research Center, Bilkent University, Ankara, Türkiye"
+    ]}
+  ],
+  "journal": {
+    "title": "Cerebellum (London, England)",
+    "iso_abbreviation": "Cerebellum",
+    "issn": "1473-4230",
+    "issn_print": "1473-4222",
+    "volume": 25,
+    "issue": 4,
+    "article_number": 118,
+    "publication_date": "2026-07-25",
+    "publisher": "Springer Nature"
+  },
+  "dates": {
+    "received": "2025-08-14",
+    "accepted": "2026-07-19",
+    "pubmed": "2026-07-25",
+    "medline": "2026-07-26",
+    "entrez": "2026-07-25"
+  },
+  "abstract": "The nucleus accumbens (NAc) plays a key role in reward-related behaviors and is involved in several neurological and psychiatric disorders. While the cortical and subcortical connections of the NAc are well-documented, its anatomical connectivity with brainstem and cerebellar structures is comparatively poorly understood. This study aims to investigate the anatomical connections of the NAc with the underexplored brainstem and cerebellar connections, which may have implications for understanding the neural mechanisms underlying many neurological conditions. The brainstem and cerebellar connections were examined using a fluoro-gold (FG) tracer in seven Wistar rats and 3-T high-resolution diffusion tensor imaging (DTI)-based human tractography. The FG was injected into the NAc of Wistar rats. The 35 µm sections were evaluated under a fluorescence microscope. DTI data came from the Human Connectome Project. In rats, the NAc was connected to the following brainstem structures: ventral tegmental area, substantia nigra, central gray, periaqueductal gray, locus coeruleus, raphe, pedunculopontine and parabrachial nuclei. Most connections were ipsilateral, few were bilateral. In humans, the right NAc is connected to the ventral tegmental area, raphe, parabrachial, pontis oralis, and cerebellar dentate nucleus. Our findings demonstrate overlapping connections in both species, particularly with the raphe, parabrachial, ventral tegmental area, and pontis oralis. The locus coeruleus, pedunculopontine, and substantia nigra pars compacta connections were observed only in rats, whereas the dentate nucleus connection was identified exclusively in humans. Given the growing interest in stereotaxic targeting of the NAc for therapeutic interventions, such as deep brain stimulation in disorders like addiction, recognizing its brainstem and cerebellar connections is crucial for minimizing unexpected side effects and optimizing clinical outcomes.",
+  "keywords": ["Brainstem", "Cerebellum", "Fluoro-gold tracer", "Nucleus accumbens", "Tractography"],
+  "mesh_terms": [
+    "Animals", "Nucleus Accumbens / anatomy & histology", "Nucleus Accumbens / diagnostic imaging",
+    "Male", "Brain Stem / anatomy & histology", "Brain Stem / diagnostic imaging",
+    "Humans", "Cerebellum / anatomy & histology", "Cerebellum / diagnostic imaging",
+    "Neural Pathways / anatomy & histology", "Neural Pathways / diagnostic imaging",
+    "Rats, Wistar", "Diffusion Tensor Imaging", "Rats", "Female", "Middle Aged", "Adult", "Stilbamidines"
+  ],
+  "chemicals": [
+    {"name": "Stilbamidines", "registry_number": "0"},
+    {"name": "2-hydroxy-4,4'-diamidinostilbene, methanesulfonate salt (fluoro-gold)", "registry_number": "C049774"}
+  ],
+  "publication_type": "Journal Article",
+  "language": "eng",
+  "copyright": "© 2026. The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.",
+  "conflict_of_interest": "The authors declare no competing interests.",
+  "pdf_available": false,
+  "pdf_note": "Subscription-only on Springer Nature — not open access. No PMC version available.",
+  "urls": {
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42501186/",
+    "doi": "https://doi.org/10.1007/s12311-026-02060-9",
+    "springer": "https://link.springer.com/article/10.1007/s12311-026-02060-9"
+  },
+  "references_count": 85,
+  "reference_list": "See PubMed XML for full reference list (85 references)",
+  "date_fetched": "2026-07-28",
+  "fetched_by": "implementer (Hermes kanban task t_635e23fb)"
+}
